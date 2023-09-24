@@ -1,0 +1,6 @@
+{
+    "entryPoints": [
+        "./mod.ts"
+    ],
+    "skipErrorChecking": true
+}
